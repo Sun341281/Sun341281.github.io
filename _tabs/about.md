@@ -1,3 +1,9 @@
+---
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
+---
+
 # 关于
 
 从[jekyll themes](http://jekyllthemes.org/)获得的模板，制作的个人博客
